@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AnimationChallengeScene.unity
+    guid: 46ed73e1941565f4eae002c38316958e
   m_configObjects: {}
